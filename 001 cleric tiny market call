@@ -1,0 +1,30 @@
+id 
+
+house
+
+auto
+    cleric  then
+
+name 
+    is 
+      cleric  apply 
+
+cleric
+      name   coin 
+
+name
+    is
+      11    query 
+
+11
+  coin  amend 
+
+11
+  effect tiny 
+
+house 
+     effect   then 
+
+     real   query 
+it
+  en 
