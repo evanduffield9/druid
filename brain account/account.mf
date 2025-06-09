@@ -26,4 +26,6 @@ though
                            though
                                   city
                                       amend
-                                           
+                                           to
+                                             space
+                                                                               tx:out side affor
